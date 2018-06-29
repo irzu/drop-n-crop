@@ -1,0 +1,36 @@
+{
+  "name": "drop-n-crop",
+  "version": "0.1.0",
+  "author": "Irek Zuchowski",
+  "license": "ISC",
+  "description": "This is simple tool lets you upload image, crop it to required size and save it, or grab its' base64 code.",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
+    "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
+    "@fortawesome/react-fontawesome": "0.1.0-11",
+    "react": "^16.4.1",
+    "react-cropper": "^1.0.1",
+    "react-dom": "^16.4.1",
+    "react-dropzone": "^4.2.12",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izuchowski/drop-n-crop.git"
+  },
+  "keywords": [
+    "image",
+    "crop",
+    "base64"
+  ],
+  "bugs": {
+    "url": "https://github.com/izuchowski/drop-n-crop/issues"
+  },
+  "homepage": "https://github.com/izuchowski/drop-n-crop#readme"
+}
